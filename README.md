@@ -9,13 +9,20 @@ https://user-images.githubusercontent.com/61055952/158015680-242ced4d-2b70-4999-
 <br />
 **Backend Code :**   https://github.com/hafizsheetab/restApiHealthDiary
 
-## Purpose of the Application:
+## Table of contents
+- [Purpose of the Application](#purpose-of-the-application)
+- [Viewpoints of different Users](#viewpoints-of-different-users)
+- [Requirement Analysis](#requirement-analysis)
+- [Usage Scenario](#usage-scenario)
+- [Technologies](#technologies)
+
+## Purpose of the Application
 For our SPL 2 project, we will try to create a web application where patients with minor to moderate health issues can receive doctor’s consultation without needing to visit them physically. 
 During this time of the global pandemic, it is now more important than ever to be able to solve minor to moderate health issues without visiting a hospital, if possible.
 So, in short it can be said that, the benefits that one can receive from this web application includes reduction in physical movement outdoors and saves a lot of time from the patient’s schedule as well as the hassle of fixing an appointment.
 
 
-## Viewpoints of different Users :
+## Viewpoints of different Users 
 #### Viewpoint of the Patients 
 - User friendly system
 - Search for specialized doctors according to their needs
@@ -52,8 +59,7 @@ Patients will be able to Set up a new profile with their Email, Password, Name a
 ### From Doctors’ perspective:
 Doctors will also be able to Set up new profiles with their Email, Password, Name, Qualification and User Type and then Log in using their Name and Password. Next they’ll see a Search Bar to look up an Organization with their name to be affiliated with. To do this, doctors will have to submit their profile to their Organization of choosing. This data will be recorded in the database and get validated by the Hospital for approval. If it gets accepted, doctors will then see an Appointment Bar where they will be able to check for available Appointments. Then they will attend their appointments in the specified time which will be a video conference.
 
-
-## Technoloies 
+## Technologies 
 - React js
 - Node js
 - Express
